@@ -31,10 +31,9 @@
 
 ## Screenshots
 
-## Screenshots
+![Main Screen](https://raw.githubusercontent.com/Valeras17/memories-mern/main/client/public/screenshots/main.png)
+![Mobile View](https://raw.githubusercontent.com/Valeras17/memories-mern/main/client/public/screenshots/mobile.png)
 
-![Main Screen](./client/public/screenshots/main.png)
-![Mobile View](./client/public/screenshots/mobile.png)
 
 
 ## Tech Stack and Dependencies
