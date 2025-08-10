@@ -33,6 +33,8 @@
 
 ![Main Screen](https://raw.githubusercontent.com/Valeras17/memories-mern/main/client/public/screenshots/main.png)
 ![Mobile View](https://raw.githubusercontent.com/Valeras17/memories-mern/main/client/public/screenshots/mobile.png)
+<img width="354" height="942" alt="mobile" src="https://github.com/user-attachments/assets/9eb9d64c-416d-4b70-ae45-18c212091995" />
+<img width="1254" height="892" alt="main" src="https://github.com/user-attachments/assets/9b83a130-c230-4a68-a85c-af8ef274b5f5" />
 
 
 
