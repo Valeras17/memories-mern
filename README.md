@@ -31,8 +31,11 @@
 
 ## Screenshots
 
-![Main Screen](./docs/screenshot-home.png)
-![Mobile View](./docs/screenshot-mobile.png)
+## Screenshots
+
+![Main Screen](./client/public/screenshots/main.png)
+![Mobile View](./client/public/screenshots/mobile.png)
+
 
 ## Tech Stack and Dependencies
 
